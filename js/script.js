@@ -19,7 +19,7 @@ $(function () {
 
             $('#locationhere').append(`<h2>Retrived location from Local storage:</h2> <div id='stored'>Latitude: ${storedLatitude} </br> Longitude: ${storedLongitude}</div>`);
 
-            $('#locationhere').append(`<h2 id='welcomeBack'>Welcome Back to the our page</h2>`);
+            $('#locationhere').append(`<h2 id='welcomeBack'>Welcome Back to our page</h2>`);
             
             
             let lat2 = parseFloat(storedLatitude);
