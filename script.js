@@ -77,7 +77,7 @@ updateContentItem(uniqueid, name, description, category)
     {
         "uniqueid": 5,
         "name": "Raju Jethwa",
-        "description": "Executive Officerof H.N Auto Sales.Pvt.Ltd",
+        "description": "Executive Officer of H.N Auto Sales.Pvt.Ltd",
         "category": "Designer"
     }
 
@@ -101,6 +101,7 @@ updateContentItem(uniqueid, name, description, category)
     $('.content-item-wrapper').css('padding', '30px');
     $('.content-item-wrapper').css('marging-top', '20px');
     $('.content-item-wrapper').css('margin-bottom', '20px');
+    $('.description').css('font-style','italic');
 
 });
 
