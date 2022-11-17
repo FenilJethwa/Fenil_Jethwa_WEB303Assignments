@@ -1,0 +1,51 @@
+[{
+    "Movie_id":"1",
+    "Character":"Main",
+    "First_Name":"Ams",
+    "Last_Name":"Akon",
+    "Role":"Hero"
+   },
+   {
+    "Movie_id":"2",
+    "Character":"Beauty",
+    "First_Name":" Dilema",
+    "Last_Name":"Dimer",
+    "Role":"Heroiene"
+  },
+  {
+    "Movie_id":"3",
+    "Character":"Paradise king",
+    "First_Name":"Farukh",
+    "Last_Name":"Faizal",
+    "Role":"Devil"
+   },
+{
+    "Movie_id":"4",
+    "Character":"Commedy",
+    "First_Name":"Mickey",
+    "Last_Name":"Mouse",
+    "Role":"Cartoon"
+   },
+{
+    "Movie_id":"5",
+    "Character":"Singer",
+    "First_Name":"Piya",
+    "Last_Name":"Patel",
+    "Role":"Background"
+   },
+{
+    "Movie_id":"6",
+    "Character":"Soldier",
+    "First_Name":"Robert",
+    "Last_Name":"Rau",
+    "Role":"Side Hero"
+   },
+{
+    "Movie_id":"7",
+    "Character":"Super-man",
+    "First_Name":"Jack",
+    "Last_Name":"Eva",
+    "Role":"Model"
+   }
+
+]
